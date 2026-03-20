@@ -6,8 +6,6 @@
 > 한줄 소개: 여기에 원하는 소개 문장을 입력하세요.
 
 [![Profile README](https://img.shields.io/badge/Profile-@tlrma-181717?style=for-the-badge&logo=github)](https://github.com/tlrma)
-[![Email](https://img.shields.io/badge/Email-your_email_here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here)
-[![Status](https://img.shields.io/badge/Focus-Embedded%20%26%20AI-0A66C2?style=for-the-badge)](#)
 
 </div>
 
@@ -149,55 +147,75 @@
 
 ---
 
-## 🏃 Activities
+## Education & Training
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌱 NCOSS 서포터즈
-**기간**  
-2024.03 ~ 2024.08
-
-**키워드**  
-오픈소스, 콘텐츠 제작, 기술 홍보
-
-</td>
-<td width="33%" valign="top">
-
-### 🤝 한국장학재단 대학생 재능봉사 캠프
-**기간**  
-2024.02.12 ~ 2024.02.15
-
-**키워드**  
-교육 봉사, 팀 활동, 나눔
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 소모임 C언어 세미나
-**기간**  
-2021.09 ~ 2023.12
-
-**키워드**  
-기초 프로그래밍, 발표, 스터디 운영
-
-</td>
-</tr>
+  <tr>
+    <td width="100%">
+      <h3>🤖 Samsung SW AI Academy For Youth 15th</h3>
+      <p>
+        Robot Track | 2026.01 ~ Present
+      </p>
+      <p>
+        로봇/임베디드 기반 문제 해결 역량을 키우며 프로젝트 중심으로 학습 중
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Robot%20Track-FF9800?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedded-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/Project%20Based%20Learning-6A5ACD?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📌 Repository Guide
+## 🏃 Activities
 
-- `tlrma` 저장소: GitHub 프로필 메인 소개용 README
-- `my-portfolio` 저장소: 프로젝트와 활동을 자세히 정리한 포트폴리오 README
+<table>
+  <tr>
+    <td width="100%">
+      <h3>📡 NCOSS Supporters</h3>
+      <p>
+        2024.03 ~ 2024.08
+      </p>
+      <p>
+        차세대통신 관련 행사 보조, 학술발표회 참여, 6G · 저궤도 위성 통신 · Wi-Fi 7 · AIoT · 디지털트윈 네트워크 카드뉴스 제작
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100%">
+      <h3>🎓 Korea Student Aid Foundation Talent Donation Camp</h3>
+      <p>
+        2024.02.13 ~ 2024.02.16
+      </p>
+      <p>
+        마이크로비트를 활용한 교육 봉사 활동 진행, 팀장으로서 활동 운영 및 전체 총괄 수행
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100%">
+      <h3>💻 C Language Seminar</h3>
+      <p>
+        2021.09 ~ 2023.12
+      </p>
+      <p>
+        C 언어 기초 학습 및 세미나 활동 참여
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📬 Contact
 
-- Email: `your_email_here`
+- Email: `onono1141@gmail.com`
 - GitHub: `https://github.com/tlrma`
 
 <!-- 필요하면 아래 항목을 추가하세요 -->
