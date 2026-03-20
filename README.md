@@ -149,7 +149,7 @@
 
 ## Education & Training
 
-<table>
+
   <tr>
     <td width="100%">
       <h3>🤖 Samsung SW AI Academy For Youth 15th</h3>
@@ -165,15 +165,16 @@
         <img src="https://img.shields.io/badge/Embedded-4CAF50?style=flat-square" />
         <img src="https://img.shields.io/badge/Project%20Based%20Learning-6A5ACD?style=flat-square" />
       </p>
+      <p></p>
     </td>
   </tr>
-</table>
+
 
 ---
 
 ## 🏃 Activities
 
-<table>
+
   <tr>
     <td width="100%">
       <h3>📡 NCOSS Supporters</h3>
@@ -212,7 +213,7 @@
       <p></p>
     </td>
   </tr>
-</table>
+
 
 ---
 
