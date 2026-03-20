@@ -209,18 +209,3 @@
 
 ---
 
-## 📌 Repository Guide
-
-- `tlrma` 저장소: GitHub 프로필 메인 소개용 README
-- `my-portfolio` 저장소: 프로젝트와 활동을 자세히 정리한 포트폴리오 README
-
----
-
-## 📬 Contact
-
-- Email: `your_email_here`
-- GitHub: `https://github.com/tlrma`
-
-<!-- 필요하면 아래 항목을 추가하세요 -->
-<!-- Blog: -->
-<!-- Notion: -->
